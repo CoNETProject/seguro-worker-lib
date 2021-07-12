@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"target": "es5",
+		"module": "ESNext"
+	},
+	"include": [
+		"*.ts",
+	],
+	"files": [
+		"../define.d.ts"
+	]
+}

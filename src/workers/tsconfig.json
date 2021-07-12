@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"module": "CommonJS",
+		"target": "ESNext",
+		"outDir": "../dist"
+	},
+	"typeAcquisition": {
+		
+	},
+	"include": [
+		"DbWorker.ts",
+		"OpenPGPWorker.ts"
+	],
+	"files": [
+		"../define.ts"
+	]
+}
